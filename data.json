@@ -1,0 +1,53 @@
+{"basics":{
+  "image":"download22.png",
+  "name":"surya",
+  "phoneno":"+91-9999999999",
+  "email":"suryanarla54121@gmail.com",
+  "Address":"SRKR College,Bhimavaram."
+},
+"CareerObjective":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+  "degree":"Btech",
+  "institute":"SRKR College",
+  "data":["2016-2020","89%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"Sri Chaitanya college",
+  "data":["2014-2016","98%"]
+},
+{
+  "degree":"SSC",
+  "institute":"Narayana college",
+  "data":["2014","96%"]
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","ruby","python"]
+  },
+  {
+    "title":"database",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+    "title":"Operating systems",
+    "data":["sql","mysql","oracle"]
+  }
+],
+"Achievements":[
+  {
+    "AchieveData":"Got 1st prize in PPT."
+  },
+  {
+    "AchieveData":"Got 1st prize in Group Discussion."
+  },
+  {
+    "AchieveData":"I won Gold medal in olympics."
+  }
+]
+}
